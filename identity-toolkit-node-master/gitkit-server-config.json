@@ -1,0 +1,8 @@
+{
+  "clientId": "102673709757-ji0i9e68mgssh20ndm0g3svc8klok6cp.apps.googleusercontent.com",
+  "projectId": "api-tehtava",
+  "serviceAccountEmail": "",
+  "serviceAccountPrivateKeyFile": "/Documents/API-tehtava-960ae1c8c6f1.pem",
+  "widgetUrl": "http://localhost:8000/gitkit",
+  "cookieName": "gtoken"
+}
